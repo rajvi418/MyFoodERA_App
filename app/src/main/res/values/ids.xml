@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gSignInBtn" type="id" />
+    <item name="button2" type="id" />
+    <item name="orText" type="id" />
+    <item name="tvWelcome" type="id" />
+    <item name="skipLoginBtn" type="id" />
+    <item name="googleSignInBtn" type="id" />
+    <item name="nav_home" type="id" />
+    <item name="nav_favorite" type="id" />
+    <item name="nav_menu" type="id" />
+    <item name="nav_setting" type="id" />
+    <item name="profileIcon" type="id" />
+    <item name="favoriteButton" type="id" />
+    <item name="homeButtonLayout" type="id" />
+    <item name="aboutAppLayout" type="id" />
+    <item name="privacyPolicyLayout" type="id" />
+    <item name="termsLayout" type="id" />
+    <item name="rootLayout" type="id" />
+    <item name="notificationsSwitch" type="id" />
+    <item name="menuRecycler" type="id" />
+</resources>

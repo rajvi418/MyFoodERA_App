@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NoRippleTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabBackground">@android:color/transparent</item>
+        <item name="tabIndicatorColor">#FF5722</item>
+        <item name="tabSelectedTextColor">#FF5722</item>
+        <item name="tabTextColor">#666666</item>
+    </style>
+</resources>

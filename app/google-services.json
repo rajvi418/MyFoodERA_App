@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293112889358",
+    "project_id": "myfoodera-ef2cc",
+    "storage_bucket": "myfoodera-ef2cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293112889358:android:c0f20989a54d041c79bc5f",
+        "android_client_info": {
+          "package_name": "com.example.myfoodera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293112889358-6nk7pv604a7u2rtno14ba8667ggulu5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb20H3VbUhxqqLgTUNi4PKxYsmWIMo1Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293112889358-6nk7pv604a7u2rtno14ba8667ggulu5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

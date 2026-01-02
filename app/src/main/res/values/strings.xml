@@ -1,0 +1,8 @@
+<resources>
+    <string name="default_web_client_id">
+    YOUR_WEB_CLIENT_ID_FROM_FIREBASE
+</string>
+    <string name="MyFoodERA">MyFoodERA\n\n</string>
+    <string name="profile">Profile</string>
+
+</resources>
